@@ -1,0 +1,3 @@
+-- Placeholder SQL backup file.
+-- Export your actual MySQL database before final submission:
+-- mysqldump -u root -p lab_testing_system > DATABASE_BACKUP.sql
